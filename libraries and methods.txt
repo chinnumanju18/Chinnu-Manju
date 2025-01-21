@@ -1,0 +1,67 @@
+libraries:
+
+
+*  from pathlib import path
+*  import pandas as pd
+*  import tarfile
+*  import urllib.request
+*  import numpy as np
+*  from sklearn.model_selection import StratifiedShuffleSplit,train_test_split
+*  from sklearn.impute import SimpleImputer
+
+
+
+
+
+
+modules/methods:
+
+
+* .info()
+* .head()
+* .tail()
+* .value_counts()
+* .plot()
+* .hist()
+* .open()
+* .read_csv()
+* .urlretrieve()
+* .mkdir()
+* .is_file()
+* .sort_values()
+* .split()
+* .iloc[]
+* .copy()
+* .append()
+* .drop()
+* .dropna()
+* .fillna()
+* .corr()
+* .isnull()
+* .loc()
+* .any()
+* .median()
+* .fit()
+* .select_dtypes()
+* .values()
+* .transform()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
